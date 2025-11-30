@@ -1,0 +1,6 @@
+Instalar:
+
+ - flask
+ - schedule
+ - selenium
+ - undetected-chromedriver
