@@ -1,7 +1,3 @@
 # Projeto-Final-de-Algoritmos-e-Programação
 
-  Esse projeto deve como finalidade construir um modelo de site e um programa para ajudar na organização da igreja. 
-
-  Foi construindo a ideia e estrutura inicial do site utilizando um framework do python chamado Flask.
-  
-  Foi criado um programa que envia um email de lembretes de eventos da uma igreja, utilizando as bibliotecas de python shedule, time, undetected-chromedriver, selenium e datetime.
+Esse trabalho teve como objetivo criar uma solução para o esquecimento ou até o mal entendimento de horários de eventos divulgados por uma determinada igreja; para criar essa solução, ou ao menos melhorar o caso, foi desenvolvido um site contendo a agenda de uma igreja, tanto em formato público (com eventos divulgados mais recentemente e atualizados), como privado (com eventos, escalas e mais que foram divulgados ou previstos) além de um programa em python que enviará email através do Gmail automaticamente em um determinado período.
