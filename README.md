@@ -1,4 +1,4 @@
-# Projeto-Final-de-Algoritmos-e-Programação
+# Automação do Envio de Emails via Gmail
 
 Esse trabalho teve como objetivo criar uma solução para o esquecimento ou
 até o mal entendimento de horários de eventos divulgados por uma determinada
